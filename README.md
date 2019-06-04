@@ -1,5 +1,5 @@
 
-# PREAST - Founder Inference using PRANK and BEAST #
+# PREAST (a.k.a. PrankenBeast) - Founder Inference using PRANK and BEAST #
 
 To infer founder sequence(s) and time of infection:
 
